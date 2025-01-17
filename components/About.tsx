@@ -6,7 +6,7 @@ import { Button } from "./ui/button"
 const About = () =>  (
     <section id="about" className="flex w-full bg-pink-50 md:flex-row flex-col sm:py-16 px-6 py-6">
       <div className="flex justify-center w-full flex-1 items-start   flex-col">
-        <h2 className=" font-semibold xs:text-[48px] text-3xl  sm:text-[50px] text-gray-900  leading-[66.8px] w-full">Book a Session Today.</h2>
+        <h2 className=" font-semibold xs:text-[48px] text-3xl  sm:text-[50px] text-gray-900  leading-[50px] w-full">Book a Session Today.</h2>
         <p className={` font-normal text-gray-800 text-[14px] leading-[25px] max-w-[470px] mt-5`}>
         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
 

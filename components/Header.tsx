@@ -87,7 +87,7 @@ const Header = () => {
           <Link href="/">
             <div className="mt-2 ml-6 font-bold">
               <FaEye className="text-[30px] text-blueAlt inline mb-2 mr-1" />
-              <p className="font-header hidden md:block text-[30px] ">
+              <p className="font-header text-[20px] inline md:hidden    md:text-[30px] ">
                 BMC<span className="font-subtext">EYE</span>
               </p>
             </div>
