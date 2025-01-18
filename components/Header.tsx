@@ -85,7 +85,7 @@ const Header = () => {
         <div className="flex justify-between  mx-[10px]">
           <div className="flex gap-[50px] text-[16px] items-center select-none">
           <Link href="/">
-            <div className="mt-2 ml-6 font-bold">
+            <div className="mt-2 md:ml-6 font-bold">
               <FaEye className="text-[30px] text-blueAlt inline mb-2 mr-1" />
               <p className="font-header text-[20px] inline md:hidden    md:text-[30px] ">
                 BMC<span className="font-subtext">EYE</span>
