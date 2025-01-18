@@ -18,7 +18,7 @@ const Hero = () => {
               Our Mission is your Vision.
             </h2>
 
-            <p className="mt-6 text-lg text-gray-900">
+            <p className="mt-6 text-[20px] text-gray-900">
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry standard dummy text
               ever since the 1500s, when an unknown printer took a galley of
